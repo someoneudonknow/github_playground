@@ -10,6 +10,8 @@
 - git checkout [main-branch (usally master)]: move to current lastest commit
 - git checkout -b [branch-name]: create branch and move to that
 - git branch: list all branches
+- git branch -d [branch-name]: delete branch-name
 - git merge [branch-name]: merge current branch with [branch-name]
+
 
 
