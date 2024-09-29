@@ -6,3 +6,8 @@
 - git status: check all the status of current git repo
 - git add: prepare to save the current state of the project
 - git reset 
+- git checkout [commit-id]: change to previous commit
+- git checkout [main-branch (usally master)]: move to current lastest commit
+- git checkout -b [branch-name]: create branch and move to that
+
+
