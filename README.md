@@ -16,6 +16,7 @@
 - git merge [branch-name]: merge current branch with [branch-name]
 - git push [remote-link] [branch-name]
 - git push -u origin [branch-name]: push a local [branch-name] onto remote repo
+- git fetch: fetch all change from remote repo
 
 
 
