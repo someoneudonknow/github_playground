@@ -18,6 +18,8 @@
 - git push -u origin [branch-name]: push a local [branch-name] onto remote repo
 - git fetch origin: fetch all change from remote repo
 - git checkout -b [branch-name] origin/[branch-name]
+- git stash
+- git stash list
 
 
 
