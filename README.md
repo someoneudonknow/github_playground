@@ -5,6 +5,8 @@
 - git init: initialize a new git repo on local
 - git status: check all the status of current git repo
 - git add: prepare to save the current state of the project
+- git log
+- git log --oneline
 - git reset 
 - git checkout [commit-id]: change to previous commit
 - git checkout [main-branch (usally master)]: move to current lastest commit
@@ -12,6 +14,8 @@
 - git branch: list all branches
 - git branch -d [branch-name]: delete branch-name
 - git merge [branch-name]: merge current branch with [branch-name]
+- git push
+
 
 
 
