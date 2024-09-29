@@ -14,7 +14,7 @@
 - git branch: list all branches
 - git branch -d [branch-name]: delete branch-name
 - git merge [branch-name]: merge current branch with [branch-name]
-- git push
+- git push [remote-link] [branch-name]
 
 
 
