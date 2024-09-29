@@ -15,6 +15,7 @@
 - git branch -d [branch-name]: delete branch-name
 - git merge [branch-name]: merge current branch with [branch-name]
 - git push [remote-link] [branch-name]
+- git push -u origin [branch-name]: push a local [branch-name] onto remote repo
 
 
 
